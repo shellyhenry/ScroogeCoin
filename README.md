@@ -1,0 +1,2 @@
+# ScroogeCoin
+Crypto Currency Implementations
